@@ -1,0 +1,6 @@
+id=systemless-hosts
+name=Systemless Hosts
+version=1.0.0
+versionCode=100
+author=ponces
+description=An efficient ad blocker, with no user interface
